@@ -1,0 +1,1588 @@
+{
+  "deals": [
+    {
+      "id": 1,
+      "opportunity": "Email",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 4,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "25/06/2022",
+      "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 2,
+      "opportunity": "B2CRM ( Auto generated)",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 6,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 3,
+      "opportunity": "Email Mkt Campaign #123456789",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 6,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 4,
+      "opportunity": "Email Mkt Campaign #123456789",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 5,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 5,
+      "opportunity": "Email",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 5,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 6,
+      "opportunity": "Whatsapp",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 5,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 7,
+      "opportunity": "Facebook",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 5,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 8,
+      "opportunity": "SMS",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 4,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "25/06/2022",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 9,
+      "opportunity": "SMS",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 4,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "25/06/2022",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 1,
+      "opportunity": "Email",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 4,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "25/06/2022",
+      "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 2,
+      "opportunity": "B2CRM ( Auto generated)",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 6,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 3,
+      "opportunity": "Email Mkt Campaign #123456789",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 6,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 4,
+      "opportunity": "Email Mkt Campaign #123456789",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 5,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 5,
+      "opportunity": "Email",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 5,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 6,
+      "opportunity": "Whatsapp",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 5,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 7,
+      "opportunity": "Facebook",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 5,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 8,
+      "opportunity": "SMS",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 4,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "25/06/2022",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 9,
+      "opportunity": "SMS",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 4,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "25/06/2022",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 1,
+      "opportunity": "Email",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 4,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "25/06/2022",
+      "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 2,
+      "opportunity": "B2CRM ( Auto generated)",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 6,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 3,
+      "opportunity": "Email Mkt Campaign #123456789",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 6,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 4,
+      "opportunity": "Email Mkt Campaign #123456789",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 5,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 5,
+      "opportunity": "Email",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 5,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 6,
+      "opportunity": "Whatsapp",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 5,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 7,
+      "opportunity": "Facebook",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 5,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 8,
+      "opportunity": "SMS",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 4,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "25/06/2022",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 9,
+      "opportunity": "SMS",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 4,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "25/06/2022",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 1,
+      "opportunity": "Email",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 4,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "25/06/2022",
+      "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 2,
+      "opportunity": "B2CRM ( Auto generated)",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 6,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 3,
+      "opportunity": "Email Mkt Campaign #123456789",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 6,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 4,
+      "opportunity": "Email Mkt Campaign #123456789",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 5,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 5,
+      "opportunity": "Email",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 5,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 6,
+      "opportunity": "Whatsapp",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 5,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 7,
+      "opportunity": "Facebook",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 5,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 8,
+      "opportunity": "SMS",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 4,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "25/06/2022",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 9,
+      "opportunity": "SMS",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 4,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "25/06/2022",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 1,
+      "opportunity": "Email",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 4,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "25/06/2022",
+      "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 2,
+      "opportunity": "B2CRM ( Auto generated)",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 6,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 3,
+      "opportunity": "Email Mkt Campaign #123456789",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 6,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 4,
+      "opportunity": "Email Mkt Campaign #123456789",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 5,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 5,
+      "opportunity": "Email",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 5,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 6,
+      "opportunity": "Whatsapp",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 5,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 7,
+      "opportunity": "Facebook",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 5,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 8,
+      "opportunity": "SMS",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 4,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "25/06/2022",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 9,
+      "opportunity": "SMS",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 4,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "25/06/2022",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 1,
+      "opportunity": "Email",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 4,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "25/06/2022",
+      "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 2,
+      "opportunity": "B2CRM ( Auto generated)",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 6,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 3,
+      "opportunity": "Email Mkt Campaign #123456789",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 6,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 4,
+      "opportunity": "Email Mkt Campaign #123456789",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 5,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 5,
+      "opportunity": "Email",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 5,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 6,
+      "opportunity": "Whatsapp",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 5,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 7,
+      "opportunity": "Facebook",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 5,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 8,
+      "opportunity": "SMS",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 4,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "25/06/2022",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 9,
+      "opportunity": "SMS",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 4,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "25/06/2022",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 1,
+      "opportunity": "Email",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 4,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "25/06/2022",
+      "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 2,
+      "opportunity": "B2CRM ( Auto generated)",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 6,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 3,
+      "opportunity": "Email Mkt Campaign #123456789",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 6,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 4,
+      "opportunity": "Email Mkt Campaign #123456789",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 5,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 5,
+      "opportunity": "Email",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 5,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 6,
+      "opportunity": "Whatsapp",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 5,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 7,
+      "opportunity": "Facebook",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 5,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 8,
+      "opportunity": "SMS",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 4,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "25/06/2022",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 9,
+      "opportunity": "SMS",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 4,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "25/06/2022",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 1,
+      "opportunity": "Email",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 4,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "25/06/2022",
+      "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 2,
+      "opportunity": "B2CRM ( Auto generated)",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 6,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 3,
+      "opportunity": "Email Mkt Campaign #123456789",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 6,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 4,
+      "opportunity": "Email Mkt Campaign #123456789",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 5,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 5,
+      "opportunity": "Email",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 5,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 6,
+      "opportunity": "Whatsapp",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 5,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 7,
+      "opportunity": "Facebook",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 5,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "-",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 8,
+      "opportunity": "SMS",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 4,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "25/06/2022",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    },
+    {
+      "id": 9,
+      "opportunity": "SMS",
+      "customer": {
+        "id": "C000000001",
+        "name": "CUSTOMER FULL NAME",
+        "last_order": "25/06/2022",
+        "last_contact": "25/06/2022"
+      },
+      "stage": 4,
+      "amount": 1519200,
+      "amount_currency": "GBP",
+      "expected_closing_data": "25/06/2022",
+       "average_amount": {
+        "12mo": 1519200,
+        "6mo": 1519200,
+        "3mo": 1519200
+      },
+      "last_30_days_amount": 1519200,
+      "potential": 1519200,
+      "potential_reached": 91
+    }
+  ]
+}
