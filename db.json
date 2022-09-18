@@ -373,28 +373,6 @@
       "last_30_days_amount": 1519200,
       "potential": 1519200,
       "potential_reached": 91
-    },
-    {
-      "id": 9,
-      "opportunity": "SMS",
-      "customer": {
-        "id": "C000000001",
-        "name": "CUSTOMER FULL NAME",
-        "last_order": "25/06/2022",
-        "last_contact": "25/06/2022"
-      },
-      "stage": 4,
-      "amount": 1519200,
-      "amount_currency": "GBP",
-      "expected_closing_data": "25/06/2022",
-       "average_amount": {
-        "12mo": 1519200,
-        "6mo": 1519200,
-        "3mo": 1519200
-      },
-      "last_30_days_amount": 1519200,
-      "potential": 1519200,
-      "potential_reached": 91
     }
   ]
 }
